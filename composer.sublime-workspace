@@ -1,0 +1,560 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-image-width"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"at",
+				"atY"
+			],
+			[
+				"bally",
+				"ballY"
+			],
+			[
+				"carpic",
+				"carPic"
+			],
+			[
+				"ball",
+				"ballY"
+			],
+			[
+				"ballsp",
+				"ballSpeedY"
+			],
+			[
+				"ballbrc",
+				"ballBrickRow"
+			],
+			[
+				"ballbric",
+				"ballBrickCol"
+			],
+			[
+				"bricc",
+				"BRICK_COLS"
+			],
+			[
+				"bricks",
+				"bricksLeft"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"user_id",
+				"user_ids"
+			],
+			[
+				"fetch",
+				"fetch_movielens"
+			],
+			[
+				"tex",
+				"TextBlob"
+			],
+			[
+				"acc",
+				"access_token_secret"
+			],
+			[
+				"cons",
+				"consumer_secret"
+			],
+			[
+				"consumer",
+				"consumer_key"
+			],
+			[
+				"adj",
+				"adjBrickTopBot"
+			],
+			[
+				"prevb",
+				"prevBrickRow"
+			],
+			[
+				"ballspe",
+				"ballSpeedY"
+			],
+			[
+				"ballbri",
+				"ballBrickCol"
+			],
+			[
+				"prevbrick",
+				"prevBrickCol"
+			],
+			[
+				"brick",
+				"BRICK_W"
+			],
+			[
+				"prevBall",
+				"prevBallX"
+			],
+			[
+				"BRICK",
+				"BRICK_ROWS"
+			],
+			[
+				"brickro",
+				"BRICK_ROWS"
+			],
+			[
+				"each",
+				"eachRow"
+			],
+			[
+				"EACH",
+				"eachCol"
+			],
+			[
+				"br",
+				"BRICK_COUNT"
+			],
+			[
+				"text",
+				"textX"
+			],
+			[
+				"padd",
+				"paddle1YTopEdge"
+			],
+			[
+				"paddle",
+				"paddle1YTopEdge"
+			],
+			[
+				"paddl",
+				"PADDLE_HEIGHT"
+			],
+			[
+				"pa",
+				"paddle1XLeftEdge"
+			],
+			[
+				"PADD",
+				"PADDLE_WIDTH"
+			],
+			[
+				"upd",
+				"updateMousePos"
+			],
+			[
+				"fr",
+				"framesPerSecond"
+			],
+			[
+				"playe",
+				"player2Score"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"player",
+				"player1Score"
+			],
+			[
+				"BALLS",
+				"ballSpeedY"
+			],
+			[
+				"play",
+				"player2Score"
+			],
+			[
+				"CANVA",
+				"canvasContext"
+			],
+			[
+				"PAD",
+				"PADDLE_THICKNESS"
+			],
+			[
+				"mous",
+				"mousePos"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"colo",
+				"colorCircle"
+			],
+			[
+				"cent",
+				"centerY"
+			],
+			[
+				"cen",
+				"centerX"
+			],
+			[
+				"canvas",
+				"canvasContext"
+			],
+			[
+				"canv",
+				"canvasContext"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/adammcmurchie/murchie85.github.io/index.html",
+		"/Users/adammcmurchie/murchie85.github.io/App-for-Android.html",
+		"/Users/adammcmurchie/murchie85.github.io/assets/css/main.css",
+		"/Users/adammcmurchie/murchie85.github.io/blog-1.html",
+		"/Users/adammcmurchie/murchie85.github.io/quicknav.html",
+		"/Users/adammcmurchie/murchie85.github.io/_config.yml",
+		"/Users/adammcmurchie/murchie85.github.io/blog_1.html",
+		"/Users/adammcmurchie/websites/mcmurchie/index.html",
+		"/Users/adammcmurchie/murchie85.github.io/_posts/2017-03-22-Cancer-of-patriotism.md",
+		"/Users/adammcmurchie/homepage/_posts/2017-01-31-3-steps-to-setup-website-with-Jalpc.md",
+		"/Users/adammcmurchie/homepage/_posts/2017-03-31-Can-we-make-it-to-Mars?.md",
+		"/Users/adammcmurchie/murchie85.github.io/_posts/2017-03-19-will-we-make-it-to-mars.md",
+		"/Users/adammcmurchie/python/TED TALK Translator/README.md",
+		"/Users/adammcmurchie/myblog/_posts/2017-02-19-Will-we-make-it-to-mars.markdown",
+		"/Users/adammcmurchie/myblog/_posts/2017-02-16-blah.markdown",
+		"/Users/adammcmurchie/myblog/index.md",
+		"/Users/adammcmurchie/myblog/_config.yml",
+		"/Users/adammcmurchie/homepage/blog/life.html",
+		"/Users/adammcmurchie/homepage/_data/blog.yml",
+		"/Users/adammcmurchie/homepage/_config.yml",
+		"/Users/adammcmurchie/homepage/_posts/2017-01-31-Can-we-make-it-to-Mars?.md",
+		"/Users/adammcmurchie/homepage/static/locales/en.json",
+		"/Users/adammcmurchie/homepage/_data/index/projects.yml",
+		"/Users/adammcmurchie/homepage/_data/index/language.yml",
+		"/Users/adammcmurchie/my-awesome-site/_config.yml",
+		"/Users/adammcmurchie/my-awesome-site/about.md",
+		"/Users/adammcmurchie/my-awesome-site/index.md",
+		"/Users/adammcmurchie/myblog/about.md",
+		"/Users/adammcmurchie/murchie85.github.io/about/index.html",
+		"/Users/adammcmurchie/my-awesome-site/_site/about/index.html",
+		"/Users/adammcmurchie/murchie85.github.io/about.md",
+		"/Users/adammcmurchie/murchie85.github.io/README.md",
+		"/Users/adammcmurchie/myblog/_posts/2017-03-16-welcome-to-jekyll.markdown",
+		"/Users/adammcmurchie/python/tensorflow_demo/board.py",
+		"/Users/adammcmurchie/python/GeneticAlgorithm/demo.py",
+		"/Users/adammcmurchie/python/Gender Classifier/gender.py",
+		"/Users/adammcmurchie/python/Brainmass/README.md",
+		"/Users/adammcmurchie/python/Brainmass/demo.py",
+		"/Users/adammcmurchie/AndroidStudioProjects/SuperMario-master/core/src/com/brentaureli/mariobros/Sprites/Mario.java",
+		"/Users/adammcmurchie/python/stockpred.py",
+		"/Users/adammcmurchie/AndroidStudioProjects/miwok/README.md",
+		"/Users/adammcmurchie/JSgames/Racing/8 new.html",
+		"/Users/adammcmurchie/JSgames/Barrier Break/13 gutter added - code compressed.html",
+		"/Users/adammcmurchie/JSgames/pong/Adam is here.html",
+		"/Users/adammcmurchie/python/recommend.py",
+		"/Users/adammcmurchie/python/deepdream.py",
+		"/Users/adammcmurchie/python/sentiment.py",
+		"/Users/adammcmurchie/python/rec2.py",
+		"/Users/adammcmurchie/python/demo.py",
+		"/Users/adammcmurchie/pong/Adam is here.html",
+		"/Users/adammcmurchie/railsbridge/suggestfinal/app/models/vote.rb",
+		"/Users/adammcmurchie/railsbridge/suggestfinal/app/models/topic.rb",
+		"/Users/adammcmurchie/railsbridge/suggestfinal/app/views/topics/index.html.erb",
+		"/Users/adammcmurchie/railsbridge/suggestfinal/config/routes.rb",
+		"/Users/adammcmurchie/railsbridge/suggestfinal/app/controllers/topics_controller.rb",
+		"/Users/adammcmurchie/railsbridge/suggestfinal/Gemfile",
+		"/Users/adammcmurchie/railsbridge/suggest2/app/views/topics/index.html.erb",
+		"/Users/adammcmurchie/railsbridge/suggest2/config/routes.rb",
+		"/Users/adammcmurchie/railsbridge/suggest2/app/controllers/topics_controller.rb",
+		"/Users/adammcmurchie/railsbridge/suggest2/app/models/vote.rb",
+		"/Users/adammcmurchie/railsbridge/suggest2/app/models/topic.rb",
+		"/Users/adammcmurchie/railsbridge/suggestotron/app/views/topics/index.html.erb",
+		"/Users/adammcmurchie/railsbridge/suggestotron/app/controllers/topics_controller.rb",
+		"/Users/adammcmurchie/railsbridge/suggestotron/config/routes.rb",
+		"/Users/adammcmurchie/railsbridge/suggestotron/Gemfile",
+		"/Users/adammcmurchie/railsbridge/suggestotron/app/models/vote.rb",
+		"/Users/adammcmurchie/railsbridge/suggestotron/app/models/topic.rb",
+		"/Users/adammcmurchie/Desktop/:* Examples *:",
+		"/Users/adammcmurchie/railsbridge/test_app/Gemfile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"about",
+			"activity",
+			"murchie",
+			"nis",
+			"fring",
+			"style",
+			"git",
+			"linked",
+			"blog",
+			"codeword",
+			"bg2",
+			"android",
+			"bg",
+			"active",
+			"index",
+			"Ante interdum",
+			"pic",
+			"mage object",
+			"wrapper",
+			"© UNTITLED",
+			" UNTITLED",
+			"ipsum sed",
+			"ipsum sed dolor",
+			"ipsum sed",
+			"ipsum",
+			"icon",
+			"HTML",
+			"lang",
+			"helpful",
+			"training",
+			"background",
+			"tan",
+			"stateTimer",
+			"time",
+			"switch",
+			"AM.png",
+			"AM",
+			"Call",
+			"ball",
+			"call",
+			"BALL",
+			"Ball",
+			"ball",
+			"Ball",
+			"BALL",
+			"Ball",
+			"ball",
+			"Stan",
+			"stanley",
+			"drawall",
+			"Reset",
+			"reset",
+			"RESET",
+			"BRICKS",
+			"bricks",
+			"Bricks",
+			"BRICKS",
+			"BRICK",
+			"Brick",
+			"brick",
+			"bricks",
+			"brick",
+			"brck",
+			"brick",
+			"Track",
+			"track",
+			"Brick",
+			"TRACK",
+			"BRICK",
+			"TRACK",
+			"TRACJ",
+			"TR",
+			"BRICK",
+			"paddle",
+			"showingWinScreen",
+			"mousedown",
+			"bottom",
+			"score",
+			"cheat",
+			"bottom",
+			"brickreset",
+			"brick",
+			"reset",
+			"score",
+			"bricksleft",
+			"score",
+			"bricksleft",
+			"score",
+			"fillText",
+			"fillText(",
+			"score",
+			"paddle",
+			"false",
+			"brickreset",
+			".com",
+			"mkdir",
+			"mkdir -p ~/graphs",
+			"plt.switch_backend('TkAgg')  ",
+			"np.argsort",
+			"numpy",
+			"rowColToArrayIndex",
+			"false",
+			"drawbricks",
+			"rowcolto",
+			"mousebr",
+			"RESET",
+			"BRICK_COUNT",
+			"BRICK_CO",
+			"COUNT",
+			"dsf",
+			"is",
+			"	for(var i=0;i<BRICK_COUNT;i++){\n\n		if(brickGrid[i]){\n		colorRect(BRICK_W*i,0,\n			BRICK_W - BRICK_GAP, BRICK_H - BRICK_GAP, 'blue');\n		}// end of is this brick here\n	}// end of for each brick",
+			"RANDOM",
+			"DRAWBRICKS",
+			"DRAW BRICKS",
+			"DRAW BRICK",
+			"GAP",
+			"draw",
+			"mouse",
+			"PADDLE_THICKNESS",
+			"paddle1XDistanceFromEdge",
+			"hello",
+			"paddle1Y",
+			"panel",
+			"pannel",
+			"pan",
+			"paddle",
+			"paddle1Y"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Car",
+			"CAR",
+			"Call",
+			"car",
+			"track",
+			"Track",
+			"TRACK"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/XAMPP/xamppfiles/htdocs/slimapp/composer.json"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true
+}
