@@ -3,7 +3,7 @@
         // Properties
         private $dbhost = 'localhost';
         private $dbuser = 'root';
-        private $dbpass = '123456';
+        private $dbpass = '';
         private $dbname = 'slimapp';
         // Connect
         // create MYSQL connect string 
